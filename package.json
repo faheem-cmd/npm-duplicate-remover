@@ -1,0 +1,25 @@
+{
+  "name": "dupllicateremover",
+  "version": "1.0.0",
+  "description": "Simply npm package for removing duplicates from an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheem-cmd/npm-duplicate-remover.git"
+  },
+  "keywords": [
+    "[\"duplicate\"",
+    "\"remover\"",
+    "\"duplicate",
+    "remover\"]"
+  ],
+  "author": "Muhammed Faheem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheem-cmd/npm-duplicate-remover/issues"
+  },
+  "homepage": "https://github.com/faheem-cmd/npm-duplicate-remover#readme"
+}
